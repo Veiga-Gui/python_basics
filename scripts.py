@@ -1,0 +1,1 @@
+#Aqui guardarei funções reaproveitáveis aos notebooks

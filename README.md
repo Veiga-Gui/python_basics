@@ -1,0 +1,1 @@
+#Caderno de estudos de python, começando do zero e visitando conceitos básicos
